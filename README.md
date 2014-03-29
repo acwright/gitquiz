@@ -9,7 +9,7 @@ Need help? Use the cheat sheets I gave you...
 3. Change directory into the new folder.
 4. Initialize a new git repository.
 5. Using whatever editor you choose open the folder in your editor and create the following:
-  - A root file called README.md. Do not add any content to this file at the moment.
+  - A file called README.md. Do not add any content to this file at the moment.
   - A folder called whatever you want containing a file named your_name.txt replacing your_name with your actual name duh. Make the content of this file any text you want.
 6. Add the above files to the repository and create a commit using git.
 7. Go to your github account and create a new repository. Name it the same as your project folder name.
@@ -24,7 +24,7 @@ Try the following...
 
 1. Fork this repo! You should see a button somewhere on this page that says fork...
 2. Now go to your github page and find the page for the repository you just forked to your account.
-3. Copy the clone url on this page. Bottom right side...
+3. Copy the clone url on your forked repos page. Bottom right side...
 4. Go to your terminal and change to the desktop.
 5. Use command line git and the url you just copied to clone this repository to your desktop.
 6. Change directory into the newly cloned repo.
