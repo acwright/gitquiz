@@ -5,7 +5,7 @@ Follow these steps to Git glory! Use the command line (please)!
 Need help? Use the cheat sheets I gave you...
 
 1. Change directory to your desktop.
-2. Create a new project folder and call it whatever you want.
+2. Create a new project folder (not a rails project just an empty folder!) and call it whatever you want.
 3. Change directory into the new folder.
 4. Initialize a new git repository.
 5. Using whatever editor you choose open the folder in your editor and create the following:
